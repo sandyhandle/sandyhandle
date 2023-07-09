@@ -13,4 +13,4 @@ Passionate about Backend engineering. <br>Quick learner with a growth mindset. <
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyhandle&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://github.com/rahulsiddarth/rahulsiddarth/blob/main/bottom_header.svg">
+<img src="https://64.media.tumblr.com/tumblr_lp0f2fIhnF1qa2ip8o1_1280.gif">
