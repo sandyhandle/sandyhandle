@@ -13,6 +13,8 @@ Passionate about Backend engineering. <br>Quick learner with a growth mindset. <
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandyhandle&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyhandle&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
+
+![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandyhandle)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sandyhandle&theme=default&hide_border=false&include_all_commits=false&count_private=false" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=sandyhandle&theme=default&hide_border=false" width = 400>
