@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in Back-end Engineering. <br>
+Interested in Back-end Engineering. (Java & Spring Boot)<br>
 Regularly attend coding contests on leetcode and have keen interest in data structures and algorithms.  <br> 
 Quick learner with a growth mindset. <br>
 Love to take challenges, adapt and learn from them. <br>
